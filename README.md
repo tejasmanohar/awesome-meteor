@@ -70,16 +70,6 @@
 ...
 
 
-### Documentation
-
-...
-
-
-### Streams
-
-...
-
-
 ### Real-time
 
 ...
@@ -131,11 +121,6 @@
 
 
 ### Email
-
-...
-
-
-### Process management
 
 ...
 
