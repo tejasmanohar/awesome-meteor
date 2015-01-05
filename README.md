@@ -28,6 +28,26 @@
 ...
 
 
+### Communications
+
+...
+
+
+### Database
+
+...
+
+
+### Debugging / Profiling
+
+...
+
+
+### Forum
+
+...
+
+
 ### Frontend
 
 - [Bootstrap](https://atmospherejs.com/meteor/bootstrap)
@@ -40,22 +60,12 @@
 ...
 
 
-### Templating
-
-...
-
-
 ### HTTP
 
 ...
 
 
-### Routing
-
-- [Iron Router](https://atmospherejs.com/iron/router)
-
-
-### Debugging / Profiling
+### Image
 
 ...
 
@@ -70,17 +80,17 @@
 ...
 
 
+### Templating
+
+...
+
+
+### Routing
+
+- [Iron Router](https://atmospherejs.com/iron/router)
+
+
 ### Real-time
-
-...
-
-
-### Date
-
-...
-
-
-### Image
 
 ...
 
@@ -90,7 +100,7 @@
 ...
 
 
-### Data validation
+### Time
 
 ...
 
@@ -100,27 +110,12 @@
 ...
 
 
-### Forum
-
-...
-
-
-### Database
-
-...
-
-
 ### Testing
 
 ...
 
 
-### Minifiers
-
-...
-
-
-### Email
+### Validation
 
 ...
 
