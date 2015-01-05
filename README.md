@@ -12,7 +12,6 @@
 
 - [Bootstrap](https://atmospherejs.com/meteor/bootstrap)
 - [CoffeeScript](https://atmospherejs.com/meteor/coffeescript)
-- [Iron Router](https://atmospherejs.com/iron/router)
 - [Less](https://atmospherejs.com/meteor/less)
 
 
@@ -34,6 +33,11 @@
 ### HTTP
 
 ...
+
+
+# Routing
+
+- [Iron Router](https://atmospherejs.com/iron/router)
 
 
 ### Debugging / Profiling
