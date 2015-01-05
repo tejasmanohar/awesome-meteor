@@ -80,7 +80,12 @@
 ...
 
 
-### Templating
+### Parsing
+
+...
+
+
+### Real-time
 
 ...
 
@@ -90,7 +95,12 @@
 - [Iron Router](https://atmospherejs.com/iron/router)
 
 
-### Real-time
+### Templating
+
+...
+
+
+### Testing
 
 ...
 
@@ -101,16 +111,6 @@
 
 
 ### Time
-
-...
-
-
-### Parsing
-
-...
-
-
-### Testing
 
 ...
 
