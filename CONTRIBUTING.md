@@ -7,6 +7,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - description.`
 - New categories, or improvements to the existing categorization are welcome.
+- Please ensure the list is still alphetically sorted after making changes.
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `Meteor` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
