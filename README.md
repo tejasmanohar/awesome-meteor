@@ -8,6 +8,26 @@
 ...
 
 
+## Authentication
+
+...
+
+
+## Benchmarking
+
+...
+
+
+### Blogging
+
+...
+
+
+## Build tools
+
+...
+
+
 ### Frontend
 
 - [Bootstrap](https://atmospherejs.com/meteor/bootstrap)
@@ -16,11 +36,6 @@
 
 
 ### Functional programming
-
-...
-
-
-### Blogging
 
 ...
 
@@ -50,27 +65,12 @@
 ...
 
 
-## Build tools
-
-...
-
-
 ## Mobile
 
 ...
 
 
 ## Documentation
-
-...
-
-
-## Filesystem
-
-...
-
-
-## Control flow
 
 ...
 
@@ -100,11 +100,6 @@
 ...
 
 
-## Math
-
-...
-
-
 ## Data validation
 
 ...
@@ -115,28 +110,7 @@
 ...
 
 
-## Humanize
-
-...
-
-
-## Compression
-
-...
-
-
-## Network
-
-...
-
-
-
 ## Forum
-
-...
-
-
-## Blogging
 
 ...
 
@@ -151,17 +125,7 @@
 ...
 
 
-## Benchmarking
-
-...
-
-
 ## Minifiers
-
-...
-
-
-## Authentication
 
 ...
 
@@ -171,28 +135,7 @@
 ...
 
 
-## Polyfills
-
-...
-
-
-## Natural language processing
-
-...
-
-
 ## Process management
-
-...
-
-
-## AST
-
-...
-
-
-
-## Weird
 
 ...
 
