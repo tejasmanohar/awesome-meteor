@@ -8,12 +8,12 @@
 ...
 
 
-## Authentication
+### Authentication
 
 ...
 
 
-## Benchmarking
+### Benchmarking
 
 ...
 
@@ -23,7 +23,7 @@
 ...
 
 
-## Build tools
+### Build tools
 
 ...
 
@@ -50,7 +50,7 @@
 ...
 
 
-# Routing
+### Routing
 
 - [Iron Router](https://atmospherejs.com/iron/router)
 
@@ -60,86 +60,86 @@
 ...
 
 
-## Logging
+### Logging
 
 ...
 
 
-## Mobile
+### Mobile
 
 ...
 
 
-## Documentation
+### Documentation
 
 ...
 
 
-## Streams
+### Streams
 
 ...
 
 
-## Real-time
+### Real-time
 
 ...
 
 
-## Date
+### Date
 
 ...
 
 
-## Image
+### Image
 
 ...
 
 
-## Text
+### Text
 
 ...
 
 
-## Data validation
+### Data validation
 
 ...
 
 
-## Parsing
+### Parsing
 
 ...
 
 
-## Forum
+### Forum
 
 ...
 
 
-## Database
+### Database
 
 ...
 
 
-## Testing
+### Testing
 
 ...
 
 
-## Minifiers
+### Minifiers
 
 ...
 
 
-## Email
+### Email
 
 ...
 
 
-## Process management
+### Process management
 
 ...
 
 
-## Miscellaneous
+### Miscellaneous
 
 ...
