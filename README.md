@@ -8,31 +8,6 @@
 ...
 
 
-### Authentication
-
-...
-
-
-### Benchmarking
-
-...
-
-
-### Blogging
-
-...
-
-
-### Build tools
-
-...
-
-
-### Communications
-
-...
-
-
 ### Database
 
 ...
@@ -55,32 +30,7 @@
 - [Less](https://atmospherejs.com/meteor/less)
 
 
-### Functional programming
-
-...
-
-
-### HTTP
-
-...
-
-
-### Image
-
-...
-
-
-### Logging
-
-...
-
-
 ### Mobile
-
-...
-
-
-### Parsing
 
 ...
 
@@ -96,26 +46,6 @@
 
 
 ### Templating
-
-...
-
-
-### Testing
-
-...
-
-
-### Text
-
-...
-
-
-### Time
-
-...
-
-
-### Validation
 
 ...
 
